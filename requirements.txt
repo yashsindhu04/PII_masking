@@ -1,0 +1,8 @@
+pandas
+numpy
+opencv-python
+Pillow
+pytesseract==0.3.10
+torch --index-url https://download.pytorch.org/whl/cu121
+gliner==0.1.13
+deskew

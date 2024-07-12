@@ -1,0 +1,12 @@
+,filename,in_time,out_time,success,output file
+0,1.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/1.jpg
+1,2.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/2.jpg
+2,3.png,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/3.png
+3,4.png,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/4.png
+4,5.png,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/5.png
+5,aadhaar1.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/aadhaar1.jpg
+6,aadhaar3.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/aadhaar3.jpg
+7,pan1.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/pan1.jpg
+8,pan2.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/pan2.jpg
+9,pan3.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/pan3.jpg
+10,pan4.jpg,07-06-2024 11:21,07-06-2024 11:21,OK,outputs/pan4.jpg
