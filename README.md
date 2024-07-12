@@ -1,7 +1,7 @@
 # **PII Masking for documents and aadhaar/pan cards to redact sensitive information**
 
 
-**Description:**
+## Description
 
 This project automates the masking of Personally Identifiable Information (PII) within images. It combines the power of:
 
