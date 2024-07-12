@@ -47,4 +47,4 @@ We welcome contributions to this project! Please feel free to submit pull reques
 
 [Hrithik Konakanchi](https://github.com/COCO-1212)
 
-For any questions or queries, feel free to reach out: [yashsindhu4903@gmail.com](yashsindhu4903@gmail.com)
+For any questions or queries, feel free to reach out at yashsindhu4903@gmail.com
