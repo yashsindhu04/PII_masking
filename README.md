@@ -1,8 +1,6 @@
 # **PII Masking for documents and aadhaar/pan cards to redact sensitive information**
 
 
-## Description
-
 This project automates the masking of Personally Identifiable Information (PII) within images. It combines the power of:
 
 * **Optical Character Recognition (OCR):** Extracts text from images using PyTesseract.
@@ -23,7 +21,7 @@ This project automates the masking of Personally Identifiable Information (PII) 
    pip install -r requirements.txt
    ```
 
-   **Note:** Ensure you have Tesseract installed on your system for OCR functionality. You can download it from https://github.com/tesseract-ocr/tesseract.
+   **Note:** Ensure you have Tesseract installed on your system for OCR functionality. You can download it from [here](https://github.com/tesseract-ocr/tesseract).
 
 
 
@@ -45,8 +43,8 @@ We welcome contributions to this project! Please feel free to submit pull reques
 
 ## Authors
 
-Yash Sindhu
+[Yash Sindhu](https://github.com/yashsindhu04)
 
-Hrithik Konakanchi
+[Hrithik Konakanchi](https://github.com/COCO-1212)
 
-For any questions or queries, feel free to reach out: yashsindhu4903@gmail.com
+For any questions or queries, feel free to reach out: [yashsindhu4903@gmail.com](yashsindhu4903@gmail.com)
