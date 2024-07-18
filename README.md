@@ -38,8 +38,11 @@ The DeBERTa model is available locally for use with the code. For details on GLi
 }
 ```
 ##Examples
+
 ![pan1](https://github.com/user-attachments/assets/23e3481c-20de-46f5-a897-ffc1b8feb5e4)
+
 ![aadhaar1](https://github.com/user-attachments/assets/55faaf0e-3ca3-4214-bff4-3d8b5f8b6a23)
+
 ![1](https://github.com/user-attachments/assets/8b8474ff-0547-450e-8328-6b1f791e2eee)
 
 
