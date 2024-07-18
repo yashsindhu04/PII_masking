@@ -37,7 +37,7 @@ The DeBERTa model is available locally for use with the code. For details on GLi
   primaryClass={cs.CL}
 }
 ```
-#**Examples**
+# **Examples**
 
 ![pan1](https://github.com/user-attachments/assets/23e3481c-20de-46f5-a897-ffc1b8feb5e4)
 
